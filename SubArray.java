@@ -27,7 +27,7 @@ public class SubArray {
 		if(counter1==1)
 			System.out.println("No increasing elements in array.");
 		else
-			System.out.println("Longest length of sub array is: " + counter1);
+			System.out.println("Longest length of increasing sub array is: " + counter1);
 	}
 
 	public static void main(String[] args) {
